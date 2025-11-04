@@ -1,0 +1,1 @@
+[{"field":"name","type":"text"},{"field":"recordType","type":"select","options":["General","SpecialCase"]},{"field":"riskScore","type":"number","min":0,"max":100},{"field":"expiryDate","type":"date"},{"field":"region","type":"select","options":["US","EU","UK"]},{"field":"reviewNotes","type":"text"},{"field":"expiryStatus","type":"display"}]
