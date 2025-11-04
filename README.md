@@ -25,6 +25,13 @@ This is a simple React-based admin interface for managing rules with conditional
 - `GET /api/blueprint` — Fetch blueprint fields used for conditions and actions.
 
 ## Usage
+!! IMPORTANT : make sure to have bun locally or else it will give you issue with using __dirname for as __dirname is not available in TS 
+```bash
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+#this code must be added if not having bun
+```
 
 1. Clone the repository.
 2. Install dependencies:
