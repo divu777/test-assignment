@@ -46,4 +46,4 @@ const __dirname = path.dirname(__filename);
     ```bash
     cd backend && bun run dev
     ```
-
+## Loom video url : https://www.loom.com/share/edf7968352e84461877e1351e6daf6f1
