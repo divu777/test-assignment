@@ -2,6 +2,9 @@
 
 This is a simple React-based admin interface for managing rules with conditional logic. Users can create, edit, and delete rules, defining **IF → THEN / ELSE** actions based on a blueprint of fields.
 
+<img width="824" height="531" alt="Screenshot 2025-11-04 at 4 02 41 PM" src="https://github.com/user-attachments/assets/5eba8dfd-d6dc-44ae-a24b-15178a6a0b7c" />
+
+
 ## Features
 
 - Fetch and display rules from a backend API.
